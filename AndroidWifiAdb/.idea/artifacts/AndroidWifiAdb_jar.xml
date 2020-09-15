@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AndroidWifiAdb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidWifiAdb_jar</output-path>
+    <root id="archive" name="AndroidWifiAdb.jar">
+      <element id="module-output" name="AndroidWifiAdb" />
+    </root>
+  </artifact>
+</component>
