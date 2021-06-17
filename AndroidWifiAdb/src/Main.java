@@ -13,9 +13,13 @@ public class Main {
 
             JFrame window = new JFrame("WIFI ADB Connector");
 
-            window.setSize(305, 180);
+        Image img = Toolkit.getDefaultToolkit().createImage("wifi.png");
+
+            window.setSize(305, 190);
             window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             window.getContentPane().setBackground(Color.white);
+            window.setTitle("Wifi ADB");
+            window.setIconImage(img);
             window.setLayout(null);
             window.setResizable(false);
             window.setLocationRelativeTo(null);
