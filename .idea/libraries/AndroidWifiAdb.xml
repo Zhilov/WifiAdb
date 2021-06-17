@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidWifiAdb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidWifiAdb/out/artifacts/AndroidWifiAdb_jar/AndroidWifiAdb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
