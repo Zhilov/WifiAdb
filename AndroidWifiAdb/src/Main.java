@@ -12,8 +12,7 @@ public class Main {
     public static void main(String[] args) {
 
             JFrame window = new JFrame("WIFI ADB Connector");
-
-        Image img = Toolkit.getDefaultToolkit().createImage("wifi.png");
+            Image img = Toolkit.getDefaultToolkit().createImage("wifi.png");
 
             window.setSize(305, 190);
             window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -26,7 +25,6 @@ public class Main {
 
         try(FileReader reader = new FileReader("ipinfo.txt"))
         {
-            // читаем посимвольно
             int c;
             while((c=reader.read())!=-1){
 
@@ -80,7 +78,6 @@ public class Main {
                 try {
                     try(FileWriter writer = new FileWriter("ipinfo.txt", false))
                     {
-                        // запись всей строки
                         String text = input.getText();
                         writer.write(text);
 
