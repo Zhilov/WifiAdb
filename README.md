@@ -18,6 +18,8 @@ This app was made for easy wifi adb connecting
 5. Check Connection status in text field below the button
   Success!
 
+
+
 Русский:
 Это приложение было сделано для лёгкого подключения телефона через wifi для отладки
 1. Подключите телефон к компьютеру через USB
@@ -26,6 +28,8 @@ This app was made for easy wifi adb connecting
 4. Нажмите кнопку Connect
 5. Проверьте статус подключения в текстовом поле ниже кнопки
   Успех!
+  
+  
   
 Deutsche:
 Diese App wurde für eine einfache WLAN-Adb-Verbindung entwickelt
@@ -36,6 +40,8 @@ Diese App wurde für eine einfache WLAN-Adb-Verbindung entwickelt
 5. Überprüfen Sie den Verbindungsstatus im Textfeld unter der Schaltfläche
    Erfolg!
    
+   
+   
 Français:
 Cette application a été conçue pour faciliter la connexion wifi adb
 1. connectez votre appareil à un ordinateur via USB
@@ -44,7 +50,9 @@ Cette application a été conçue pour faciliter la connexion wifi adb
 4. Appuyez sur le bouton Connecter
 5. Vérifiez l'état de la connexion dans le champ de texte sous le bouton
    Succès!
-     
+   
+   
+   
 عرب:
 تم إنشاء هذا التطبيق لسهولة توصيل adb wifi
 1. قم بتوصيل جهازك بجهاز كمبيوتر عبر USB
