@@ -6,8 +6,6 @@
 * Русский 
 * Deutsche 
 * Français 
-* 中国人 
-* 日本語 
 * عرب
 
 
@@ -46,24 +44,6 @@ Cette application a été conçue pour faciliter la connexion wifi adb
 4. Appuyez sur le bouton Connecter
 5. Vérifiez l'état de la connexion dans le champ de texte sous le bouton
    Succès!
-   
-中国人:
-此应用程序专为轻松连接 wifi adb 而设计
-1.通过USB将您的设备连接到计算机
-2. 开启手机调试模式
-3.在文本字段中写入手机的本地IP地址
-4.按连接按钮
-5. 在按钮下方的文本字段中检查连接状态
-   成功！
-
-日本語:
-このアプリは簡単なwifiadb接続のために作られました
-1.USB経由でデバイスをコンピューターに接続します
-2.電話でデバッグモードを有効にします
-3.テキストフィールドに電話のローカルIPアドレスを入力します
-4.接続ボタンを押します
-5.ボタンの下のテキストフィールドで接続ステータスを確認します
-   成功！
      
 عرب:
 تم إنشاء هذا التطبيق لسهولة توصيل adb wifi
