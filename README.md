@@ -1,5 +1,11 @@
 # WifiAdb
 
+ATTENTION!!! You have to download Java if you did not!
+ATTENTION!!! Vous devez télécharger Java si vous ne l'avez pas fait !
+BEACHTUNG!!! Sie müssen Java herunterladen, wenn Sie dies nicht getan haben!
+ВНИМАНИЕ!!! Вам необходимо скачать Java, если вы этого не сделали!
+الانتباه!!! يجب عليك تنزيل Java إذا لم تقم بذلك!
+
 ![image](https://user-images.githubusercontent.com/33634903/123545493-f4461d00-d760-11eb-874b-c3d4d561221d.png)
 
 * English 
