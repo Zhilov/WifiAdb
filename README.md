@@ -1,8 +1,7 @@
 # WifiAdb
 P.S.
 Dont forget to change the path to platform-tools in MainActivity.java
-<img width="733" alt="Безымянный" src="https://user-images.githubusercontent.com/33634903/131896859-a00d8b71-7804-4e45-9e7a-41712619e12e.png">
-
+<img width="733" alt="Change Path in MainActivity.java" src="https://user-images.githubusercontent.com/33634903/131897758-563308f7-4517-4ab5-90ed-c89344aa71ba.png">
 
 1. ATTENTION!!! You have to download Java if you did not!
 2. ATTENTION!!! Vous devez télécharger Java si vous ne l'avez pas fait !
