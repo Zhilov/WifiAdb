@@ -1,5 +1,9 @@
 # WifiAdb
 
+<img width="733" alt="Безымянный" src="https://user-images.githubusercontent.com/33634903/131896859-a00d8b71-7804-4e45-9e7a-41712619e12e.png">
+Dont forget to change the path to platform-tools
+
+
 1. ATTENTION!!! You have to download Java if you did not!
 2. ATTENTION!!! Vous devez télécharger Java si vous ne l'avez pas fait !
 3. BEACHTUNG!!! Sie müssen Java herunterladen, wenn Sie dies nicht getan haben!
