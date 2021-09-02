@@ -1,7 +1,7 @@
 # WifiAdb
 P.S.
-<img width="733" alt="Безымянный" src="https://user-images.githubusercontent.com/33634903/131896859-a00d8b71-7804-4e45-9e7a-41712619e12e.png">
 Dont forget to change the path to platform-tools in MainActivity.java
+<img width="733" alt="Безымянный" src="https://user-images.githubusercontent.com/33634903/131896859-a00d8b71-7804-4e45-9e7a-41712619e12e.png">
 
 
 1. ATTENTION!!! You have to download Java if you did not!
