@@ -6,6 +6,7 @@
 * Русский 
 
 How to run app? WifiAdb/out/artifacts/WifiADB.jar
+
 Как запустить приложение? WifiAdb/out/artifacts/WifiADB.jar
 
 English:
