@@ -5,9 +5,8 @@
 * English 
 * Русский 
 
-How to run app? WifiAdb/out/artifacts/WifiADB.jar
-
-Как запустить приложение? WifiAdb/out/artifacts/WifiADB.jar
+* How to run app? WifiAdb/out/artifacts/WifiADB.jar
+* Как запустить приложение? WifiAdb/out/artifacts/WifiADB.jar
 
 English:
 This app was made for easy wifi adb connecting
