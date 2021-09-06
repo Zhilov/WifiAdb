@@ -1,9 +1,12 @@
 # WifiAdb
-![image](https://user-images.githubusercontent.com/33634903/132131277-39b0e86b-d6b7-4e8b-9bed-f90f08687c10.png)
 
 * English 
 * Русский 
 
+![image](https://user-images.githubusercontent.com/33634903/132131277-39b0e86b-d6b7-4e8b-9bed-f90f08687c10.png)
+
+* How to run app? WifiAdb/out/artifacts/WifiADB.jar
+* Как запустить приложение? WifiAdb/out/artifacts/WifiADB.jar
 
 English:
 This app was made for easy wifi adb connecting
@@ -14,6 +17,8 @@ This app was made for easy wifi adb connecting
 5. Press Connect button
 6. Check Connection status in text field below the button
   Success!
+
+
 
 
 
